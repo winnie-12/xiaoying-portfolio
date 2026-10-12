@@ -15,8 +15,8 @@ export const projects = [
       'Created an animated skills marquee and a contact section linking to my GitHub, LinkedIn and email',
     ],
     tags: ['Vue 3', 'Vite', 'JavaScript', 'CSS'],
-    link: '',
-    source: '',
+    link: 'https://xiaoying-portfolio.vercel.app/',
+    source: 'https://github.com/winnie-12/xiaoying-portfolio.git',
     image: '/personal-portfolio.png',
   },
   {
