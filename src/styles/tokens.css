@@ -1,0 +1,42 @@
+/* ==========================================================
+   Design tokens
+   Paper white · Mist · Ink navy · Cobalt · Lagoon teal
+   ========================================================== */
+:root {
+  /* Colour */
+  --color-bg: #ffffff;
+  --color-surface: #f6f8fc;
+  --color-ink: #0f1b2d;
+  --color-ink-soft: #46536a;
+  --color-muted: #6b7789;
+  --color-line: #e3e8f0;
+  --color-rail: #c3cee1;
+  /* timeline line */
+  --color-grid: #dde4ef;
+  /* hero grid lines */
+
+  --color-accent: #2e6bf0;
+  --color-accent-strong: #1f50c8;
+  --color-accent-tint: #d3e4ff;
+
+
+  --color-teal: #2aa6a0;
+  --color-teal-strong: #0b7a6f;
+  --color-teal-tint: #ceeceb;
+
+  /* Type */
+  --font-display: 'Bricolage Grotesque Variable', 'Segoe UI', system-ui, sans-serif;
+  --font-body: 'DM Sans Variable', 'Segoe UI', system-ui, -apple-system, sans-serif;
+
+  /* Shape — radii differ by role on purpose */
+  --radius-card: 1.125rem;
+  --radius-inner: 0.75rem;
+  --radius-pill: 999px;
+
+  --shadow-card: 0 1px 2px rgba(15, 27, 45, 0.04), 0 10px 28px -14px rgba(15, 27, 45, 0.14);
+
+  /* Layout */
+  --container: 68rem;
+  --gutter: clamp(1.25rem, 4vw, 2rem);
+  --nav-h: 4.5rem;
+}
