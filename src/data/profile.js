@@ -5,7 +5,7 @@ export const profile = {
   email: 'xiaoyingtai12@gmail.com',
 
   // Put your photo at public/avatar.jpg. If missing, the placeholder is shown.
-  avatar: '/avatar1.png',
+  avatar: '/avatar.jpg',
   avatarFallback: '/avatar-placeholder.svg',
 
   // Put your resume at public/resume.pdf
